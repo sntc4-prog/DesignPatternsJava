@@ -1,4 +1,4 @@
-package CreationalPatterns.Prototype;
+package creationalpatterns.prototype;
 
 public interface Prototype {
     Object clone();

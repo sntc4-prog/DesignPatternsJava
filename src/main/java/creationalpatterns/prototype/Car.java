@@ -1,4 +1,4 @@
-package CreationalPatterns.Prototype;
+package creationalpatterns.prototype;
 
 public class Car implements Prototype {
     private int id;
